@@ -1,0 +1,16 @@
+# app-ads.txt for Maker Studio UG (haftungsbeschränkt) – Car Dealer Empire
+#
+# PLACEHOLDER – no seller lines yet.
+#
+# Where to get the lines:
+#   Unity LevelPlay dashboard (platform.ironsrc.com / Unity Cloud → LevelPlay)
+#   → Apps → app-ads.txt (or "Setup → app-ads.txt"). LevelPlay generates the
+#   complete list for the active networks (ironSource Ads, Unity Ads).
+#   Paste those lines below this comment block, unchanged, one per line.
+#   Format: <ad system domain>, <publisher ID>, <DIRECT|RESELLER>[, <cert authority ID>]
+#
+# IMPORTANT: This file only counts if it is served at the ROOT of the developer
+# website domain entered in App Store Connect / Google Play Console, e.g.
+#   https://maker-studio.io/app-ads.txt
+# A copy inside a GitHub Pages project path (https://<org>.github.io/<repo>/app-ads.txt)
+# or on a subdomain (cde.maker-studio.io) is NOT crawled by ad networks.
